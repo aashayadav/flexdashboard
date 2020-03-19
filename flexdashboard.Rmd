@@ -6,7 +6,7 @@ output:
     orientation: columns
     vertical_layout: fill
     social: ["twitter", "facebook"]
-    source_code: https://github.com/aashayadav/flexdashboard/blob/master/flexboard.Rmd
+    source_code: https://github.com/aashayadav/flexdashboard/blob/master/flexdashboard.Rmd
 ---
 
 ```{r setup, include=FALSE}
