@@ -159,7 +159,7 @@ plot_row <- plot_grid(p1, p2, ncol=1, labels = c())
 
 title <- ggdraw() + 
   draw_label(
-    "Children under 5 with special health needs likely to experience 1 or more adverse\n childhood experiences in East and West Coast (Data Source: NSCH 2016 & NSCH 2017)",
+    "Children under 5 with special health needs likely to experience 1\n or more adverse\n childhood experiences in East and West Coast\n(Data Source: NSCH 2016 & NSCH 2017)",
     x = 0, hjust = 0) + 
   theme(
     plot.margin = margin(0, 0, 0, 7)
